@@ -7,6 +7,7 @@ public class Calculator {
 		
 		private int num3;
 		
+		private int num4;
 
 	}
 
