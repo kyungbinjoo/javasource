@@ -5,8 +5,6 @@ public class Calculator {
 		
 		private int num2;
 		
-		private int num3;
-		
 
 	}
 
